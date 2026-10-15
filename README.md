@@ -6,7 +6,7 @@
 
 macOS (Apple Silicon) · Gratis · by Zeedatik
 
-[**⬇ Descargar / Download**](https://github.com/zeedatik/NextHelp/releases/latest) · [Instalación / Install](INSTALL.md) · [Soporte / Support](https://github.com/zeedatik/NextHelp/issues)
+[**Descargar / Download**](https://github.com/zeedatik/NextHelp/releases/latest) · [Instalación / Install](INSTALL.md) · [Soporte / Support](https://github.com/zeedatik/NextHelp/issues)
 
 </div>
 
