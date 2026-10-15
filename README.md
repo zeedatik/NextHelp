@@ -10,13 +10,9 @@ macOS (Apple Silicon) · Gratis · by Zeedatik
 
 </div>
 
-<!--
-  VIDEO — instrucciones para publicarlo (borra este bloque después):
-  1. En GitHub, abre este README con el botón de editar (lápiz).
-  2. Arrastra el archivo assets/nexthelp-video.mp4 aquí, justo debajo de esta línea.
-  3. GitHub pondrá un enlace automático; es lo que hace que el video se vea dentro del README.
-  4. Guarda el cambio (Commit changes).
--->
+<video src="https://github.com/zeedatik/NextHelp/raw/main/assets/nexthelp-video.mp4" controls muted playsinline width="100%"></video>
+
+[Ver el video / Watch the video](https://github.com/zeedatik/NextHelp/blob/main/assets/nexthelp-video.mp4)
 
 [![NextHelp en acción](assets/poster.png)](https://github.com/zeedatik/NextHelp/releases/latest)
 
