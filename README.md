@@ -10,9 +10,7 @@ macOS (Apple Silicon) · Gratis · by Zeedatik
 
 </div>
 
-<video src="https://github.com/zeedatik/NextHelp/raw/main/assets/nexthelp-video.mp4" controls muted playsinline width="100%"></video>
-
-[Ver el video / Watch the video](https://github.com/zeedatik/NextHelp/blob/main/assets/nexthelp-video.mp4)
+[![NextHelp en acción / NextHelp in action](assets/preview.gif)](https://github.com/zeedatik/NextHelp/releases/latest)
 
 [![NextHelp en acción](assets/poster.png)](https://github.com/zeedatik/NextHelp/releases/latest)
 
