@@ -41,3 +41,17 @@ THIRD_PARTY_NOTICES.md).
 
 NextHelp is an independent project and is not affiliated with or endorsed by
 any third-party product or company mentioned in it.
+
+
+==============================================================
+TEXTOS LEGALES COMPLETOS / FULL LEGAL TEXTS
+==============================================================
+
+Los Términos de uso y el Aviso de privacidad que NextHelp muestra al iniciar, completos, están en la carpeta legal/ de este repositorio:
+
+- legal/TERMS.es.md   Términos de uso y contrato de licencia (español)
+- legal/TERMS.en.md   Terms of Use and End User License Agreement (English)
+- legal/PRIVACY.es.md Aviso de privacidad (español)
+- legal/PRIVACY.en.md Privacy Notice (English)
+
+The complete Terms of Use and Privacy Notice that NextHelp shows on first launch are in the legal/ folder of this repository (files listed above).
