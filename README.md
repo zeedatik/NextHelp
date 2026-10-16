@@ -103,4 +103,4 @@ NextHelp es software **propietario y gratuito**: puedes instalarlo y usarlo seg�
 
 NextHelp is **proprietary, free** software: you may install and use it under its Terms of Use, but the source code is not public and redistribution, modification and reverse engineering are not permitted. See [LICENSE](LICENSE).
 
-© 2026 [Luis Rangel]. Todos los derechos reservados · All rights reserved.
+© 2026 Zeedatik. Todos los derechos reservados · All rights reserved.
