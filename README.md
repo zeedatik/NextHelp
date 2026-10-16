@@ -10,7 +10,10 @@ macOS (Apple Silicon) · Gratis · by Zeedatik
 
 </div>
 
-[![NextHelp en acción / NextHelp in action](assets/preview.gif)](https://github.com/zeedatik/NextHelp/releases/latest)
+
+
+https://github.com/user-attachments/assets/a2a34938-4b38-48e2-9b8b-c8c9b80bf05a
+
 
 
 ---
