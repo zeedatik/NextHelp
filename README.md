@@ -4,7 +4,7 @@
 
 **Tu copiloto para cualquier reunión.** · *Your copilot for any meeting.*
 
-macOS (Apple Silicon) · Gratis · by Zeedatik
+macOS (Apple Silicon) · Gratis · by [Zeedatik](https://zeedatik.com)
 
 [**Descargar / Download**](https://github.com/zeedatik/NextHelp/releases/latest) · [Instalación / Install](INSTALL.md) · [Soporte / Support](https://github.com/zeedatik/NextHelp/issues)
 
@@ -106,4 +106,4 @@ NextHelp es software **propietario y gratuito**: puedes instalarlo y usarlo seg�
 
 NextHelp is **proprietary, free** software: you may install and use it under its Terms of Use, but the source code is not public and redistribution, modification and reverse engineering are not permitted. See [LICENSE](LICENSE).
 
-© 2026 Zeedatik. Todos los derechos reservados · All rights reserved.
+© 2026 [Zeedatik](https://zeedatik.com). Todos los derechos reservados · All rights reserved.
