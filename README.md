@@ -12,7 +12,11 @@ macOS (Apple Silicon) · Gratis · by [Zeedatik](https://zeedatik.com)
 
 
 
-https://github.com/user-attachments/assets/a2a34938-4b38-48e2-9b8b-c8c9b80bf05a
+
+
+https://github.com/user-attachments/assets/1a9a7327-6061-45d5-aa72-8b84d3d237af
+
+
 
 
 
