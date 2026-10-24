@@ -30,7 +30,7 @@ Funciona así, de un vistazo:
 - **macOS 15 o posterior** (se recomienda macOS 26: mejor transcripción y traducción).
 - De 5 a 10 GB libres si quieres modelos de IA locales.
 
-**Instalación en cuatro pasos** (la guía completa está en [INSTALL.md](INSTALL.md)):
+**Instalación en cuatro pasos** (la guía completa está en [INSTALL.md](https://github.com/zeedatik/NextHelp/blob/main/INSTALL.md)):
 
 1. Descarga el `.dmg` de la página de [Releases](https://github.com/zeedatik/NextHelp/releases/latest).
 2. Ábrelo y arrastra **NextHelp** a **Aplicaciones**.
@@ -63,7 +63,7 @@ Al terminar verás **«Todo listo»**. Más adelante puedes repetir el asistente
 
 # 4. Recorrido por la ventana
 
-![Ventana principal de NextHelp (ilustración con contenido de ejemplo)](assets/manual/fig1.png)
+![Ventana principal de NextHelp (ilustración con contenido de ejemplo)](img/fig1.png)
 
 La ventana tiene tres zonas: **A) Transcripción** (lo que se dice), **B) Respuestas** (lo que te sugiere la IA) y **C) el campo de aclaración con el botón «Responder lo último»**. Arriba está la barra de botones. Un botón en **azul** significa que esa función está activada.
 
@@ -134,7 +134,7 @@ Un **perfil** es un grupo de documentos sobre un tema: por ejemplo tu CV y proye
 | **general** | Los documentos solo **apoyan**. Si no hay o no sirven, la IA responde igual, con su propio conocimiento y la transcripción. |
 | **Cualquier perfil que crees** | Modo estricto: la IA responde **únicamente con lo que dicen tus documentos** de ese perfil. Si el perfil no tiene documentos, la app te lo avisa. |
 
-![Selector de perfiles (ilustración con perfiles de ejemplo)](assets/manual/fig3.png)
+![Selector de perfiles (ilustración con perfiles de ejemplo)](img/fig3.png)
 
 ## Crear un perfil y agregar documentos
 
@@ -191,7 +191,7 @@ Resultado: lo usan cada día 4 empleados.
 
 El teleprompter te ayuda a presentar una demo o una exposición sin perder el hilo.
 
-![Teleprompter en la tercera columna (ilustración)](assets/manual/fig2.png)
+![Teleprompter en la tercera columna (ilustración)](img/fig2.png)
 
 1. Pulsa **Teleprompter** (botón 6) para mostrarlo. **Para quitarlo, vuelve a pulsar el mismo botón.**
 2. En la columna del teleprompter, pulsa el botón de documento (**A**) para **abrir un guion** `.md` o `.txt`, o el de carpeta para abrir la carpeta de guiones (`~/Documents/MeetingAssistant/Guiones/`).
@@ -325,7 +325,7 @@ Muestra el estado de Ollama (dirección, puerto, versión), permite reiniciarlo 
 - **Avisa y obtén el consentimiento** de las personas a las que transcribas, según la ley y las reglas de tu escuela o empresa.
 - Respeta las reglas de la entrevista, el examen o la reunión en que lo uses.
 
-Los textos completos están en [`legal/`](legal/) y en el **Aviso de privacidad** que aparece al abrir la app.
+Los textos completos están en [`legal/`](https://github.com/zeedatik/NextHelp/tree/main/legal) y en el **Aviso de privacidad** que aparece al abrir la app.
 
 # 17. Soporte
 

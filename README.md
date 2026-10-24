@@ -6,7 +6,7 @@
 
 macOS (Apple Silicon) · Gratis · by [Zeedatik](https://zeedatik.com)
 
-[**Descargar / Download**](https://github.com/zeedatik/NextHelp/releases/latest) · [Instalación / Install](INSTALL.md) · [Soporte / Support](https://github.com/zeedatik/NextHelp/issues)
+[**Descargar / Download**](https://github.com/zeedatik/NextHelp/releases/latest) · [Instalación / Install](INSTALL.md) · [Manual](manual-de-usuario/Manual-de-usuario.es.pdf) / [User Manual](manual-de-usuario/User-Manual.en.pdf) · [Soporte / Support](https://github.com/zeedatik/NextHelp/issues)
 
 </div>
 
@@ -59,6 +59,10 @@ NextHelp es una app para Mac que te acompaña durante una reunión o una llamada
 
 Pasos completos, permisos y solución de problemas en [INSTALL.md](INSTALL.md).
 
+### Manual de usuario
+
+Cómo usar cada botón, la traducción, los perfiles y documentos, el teleprompter y más: [Manual en PDF](manual-de-usuario/Manual-de-usuario.es.pdf) · [Manual en Markdown](manual-de-usuario/Manual-de-usuario.es.md).
+
 ### Soporte
 
 ¿Algo no funciona o tienes una idea? Abre un [Issue](https://github.com/zeedatik/NextHelp/issues). Indica tu versión de macOS y de NextHelp.
@@ -105,6 +109,10 @@ NextHelp is a Mac app that keeps you company during a meeting or call: it listen
 4. Open NextHelp from Applications, grant the permissions it asks for (microphone, speech recognition and screen & system audio recording) and let it download the recommended local AI models.
 
 Full steps, permissions and troubleshooting in [INSTALL.md](INSTALL.md).
+
+### User manual
+
+How to use every button, translation, profiles and documents, the teleprompter and more: [Manual (PDF)](manual-de-usuario/User-Manual.en.pdf) · [Manual (Markdown)](manual-de-usuario/User-Manual.en.md).
 
 ### Support
 

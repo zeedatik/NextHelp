@@ -4,6 +4,8 @@ By default NextHelp runs on your Mac, and we never receive your conversations or
 
 ## English
 
+> After installing, see the [User Manual](manual-de-usuario/User-Manual.en.pdf) for how to use NextHelp.
+
 **Requirements:** a Mac with Apple silicon, macOS 15 or later (macOS 26 recommended: best transcription and translation), about 5–10 GB of free disk if you want local AI models.
 
 1. Download `NextHelp-x.y.dmg` from the [Releases page](https://github.com/zeedatik/NextHelp/releases). Optional: check that its SHA-256 matches the `.sha256` file (`shasum -a 256 NextHelp-x.y.dmg`).
@@ -25,6 +27,8 @@ Tested on a new Mac with nothing previously installed: steps 1 to 7 are enough.
 **Uninstall:** drag NextHelp to the Trash. To remove its data also delete `~/Library/Application Support/NextHelp/`, `~/Documents/MeetingAssistant/` (transcripts and scripts) and, if you want, the models in `~/.ollama`.
 
 ## Español
+
+> Después de instalar, consulta el [Manual de usuario](manual-de-usuario/Manual-de-usuario.es.pdf) para aprender a usar NextHelp.
 
 **Requisitos:** una Mac con chip Apple, macOS 15 o superior (se recomienda macOS 26: mejor transcripción y traducción), y de 5 a 10 GB libres si quieres modelos de IA locales.
 

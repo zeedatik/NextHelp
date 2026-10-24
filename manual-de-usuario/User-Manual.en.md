@@ -32,7 +32,7 @@ At a glance:
 - **macOS 15 or later** (macOS 26 recommended: better transcription and translation).
 - 5–10 GB of free disk if you want local AI models.
 
-**Install in four steps** (full guide in [INSTALL.md](INSTALL.md)):
+**Install in four steps** (full guide in [INSTALL.md](https://github.com/zeedatik/NextHelp/blob/main/INSTALL.md)):
 
 1. Download the `.dmg` from the [Releases page](https://github.com/zeedatik/NextHelp/releases/latest).
 2. Open it and drag **NextHelp** into **Applications**.
@@ -65,7 +65,7 @@ When done you will see **"All set"**. You can repeat the assistant later from **
 
 # 4. A tour of the window
 
-![NextHelp main window (illustration with sample content; the interface shown is in Spanish)](assets/manual/fig1.png)
+![NextHelp main window (illustration with sample content; the interface shown is in Spanish)](img/fig1.png)
 
 The window has three areas: **A) Transcript** (what is said), **B) Answers** (what the AI suggests) and **C) the optional clarification field with the "Answer the latest" button**. The button bar is on top. A **blue** button means that feature is on.
 
@@ -136,7 +136,7 @@ A **profile** is a group of documents about a topic: for example your CV and pro
 | **general** | Documents only **support**. If there are none or they do not help, the AI still answers from its own knowledge and the transcript. |
 | **Any profile you create** | Strict mode: the AI answers **only from what your documents** in that profile say. If the profile has no documents, the app tells you. |
 
-![Profile selector (illustration with sample profiles; Spanish interface)](assets/manual/fig3.png)
+![Profile selector (illustration with sample profiles; Spanish interface)](img/fig3.png)
 
 ## Creating a profile and adding documents
 
@@ -192,7 +192,7 @@ My role: design and development. Result: used daily by 4 employees.
 
 The teleprompter helps you present a demo or talk without losing your place.
 
-![Teleprompter in the third column (illustration; Spanish interface)](assets/manual/fig2.png)
+![Teleprompter in the third column (illustration; Spanish interface)](img/fig2.png)
 
 1. Press **Teleprompter** (button 6) to show it. **To remove it, press the same button again.**
 2. In the teleprompter column, press the document button (**A**) to **open a script** `.md` or `.txt`, or the folder button to open the scripts folder (`~/Documents/MeetingAssistant/Guiones/`).
@@ -326,7 +326,7 @@ Shows Ollama's status (address, port, version), lets you restart it and see its 
 - **Inform people and get their consent** before transcribing them, according to the law and your school's or company's rules.
 - Respect the rules of the interview, exam or meeting where you use it.
 
-The full texts are in [`legal/`](legal/) and in the **Privacy Notice** shown when you open the app.
+The full texts are in [`legal/`](https://github.com/zeedatik/NextHelp/tree/main/legal) and in the **Privacy Notice** shown when you open the app.
 
 # 17. Support
 
