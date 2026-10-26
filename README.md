@@ -65,7 +65,7 @@ Pasos completos, permisos y solución de problemas en [INSTALL.md](INSTALL.md).
 
 ### Manual de usuario
 
-Cómo usar cada botón, la traducción, los perfiles y documentos, el teleprompter y más: [Manual en PDF](manual-de-usuario/Manual-de-usuario.es.pdf) · [Manual en Markdown](manual-de-usuario/Manual-de-usuario.es.md).
+Cómo usar cada botón, la traducción, los perfiles y documentos, el resumen y la memoria, el teleprompter y más: [Manual en PDF](manual-de-usuario/Manual-de-usuario.es.pdf) · [Manual en Markdown](manual-de-usuario/Manual-de-usuario.es.md).
 
 ### Soporte
 
@@ -116,7 +116,7 @@ Full steps, permissions and troubleshooting in [INSTALL.md](INSTALL.md).
 
 ### User manual
 
-How to use every button, translation, profiles and documents, the teleprompter and more: [Manual (PDF)](manual-de-usuario/User-Manual.en.pdf) · [Manual (Markdown)](manual-de-usuario/User-Manual.en.md).
+How to use every button, translation, profiles and documents, summary and memory, the teleprompter and more: [Manual (PDF)](manual-de-usuario/User-Manual.en.pdf) · [Manual (Markdown)](manual-de-usuario/User-Manual.en.md).
 
 ### Support
 

@@ -24,6 +24,8 @@ By default NextHelp runs on your Mac, and we never receive your conversations or
 
 Tested on a new Mac with nothing previously installed: steps 1 to 7 are enough.
 
+**Updating:** quit NextHelp (⌘Q), drag the new **NextHelp** into **Applications** replacing the old one, run the `xattr` command from step 3 again and open the app. Your profiles, documents and transcripts are kept. If the "Them" audio fails after updating, use **Settings → General → Resolve permissions conflict**.
+
 **Uninstall:** drag NextHelp to the Trash. To remove its data also delete `~/Library/Application Support/NextHelp/`, `~/Documents/MeetingAssistant/` (transcripts and scripts) and, if you want, the models in `~/.ollama`.
 
 ## Español
@@ -48,11 +50,13 @@ Tested on a new Mac with nothing previously installed: steps 1 to 7 are enough.
 
 Probado en una Mac nueva sin nada instalado previamente: con los pasos 1 a 7 es suficiente.
 
+**Actualizar:** cierra NextHelp (⌘Q), arrastra el nuevo **NextHelp** a **Aplicaciones** reemplazando el anterior, ejecuta otra vez el comando `xattr` del paso 3 y abre la app. Tus perfiles, documentos y transcripciones se conservan. Si el audio de «Ellos» falla después de actualizar, usa **Configuración → General → Resolver conflicto de permisos**.
+
 **Desinstalar:** arrastra NextHelp a la papelera. Para borrar también sus datos elimina `~/Library/Application Support/NextHelp/`, `~/Documents/MeetingAssistant/` (transcripciones y guiones) y, si quieres, los modelos en `~/.ollama`.
 
 ## Solución de problemas / Troubleshooting
 
-**Español — El audio del sistema no funciona o macOS no reconoce el permiso.** Mantén **una sola copia** de NextHelp, en Aplicaciones, y ábrela desde ahí (no desde el DMG montado). Cierra la app (⌘Q), quita NextHelp de **Ajustes del Sistema → Privacidad y seguridad → Grabación de pantalla y audio del sistema** con el botón **−**, y ejecuta en Terminal:
+**Español — El audio del sistema no funciona o macOS no reconoce el permiso.** Primero prueba **Configuración → General → Resolver conflicto de permisos → Resolver y reiniciar** (quita las copias antiguas del registro de macOS y borra los permisos guardados; no toca tus perfiles, documentos ni transcripciones). Si no basta, mantén **una sola copia** de NextHelp, en Aplicaciones, y ábrela desde ahí (no desde el DMG montado). Cierra la app (⌘Q), quita NextHelp de **Ajustes del Sistema → Privacidad y seguridad → Grabación de pantalla y audio del sistema** con el botón **−**, y ejecuta en Terminal:
 
 ```bash
 tccutil reset ScreenCapture com.luisrangel.meetingassistant
@@ -60,7 +64,7 @@ tccutil reset ScreenCapture com.luisrangel.meetingassistant
 
 Reinicia la Mac, abre NextHelp y vuelve a conceder el permiso cuando macOS lo pida. Después de actualizar a una versión nueva, macOS puede volver a pedir los permisos de micrófono y de audio del sistema.
 
-**English — System audio doesn't work or macOS doesn't recognize the permission.** Keep **a single copy** of NextHelp in Applications and open it from there (not from the mounted DMG). Quit the app (⌘Q), remove NextHelp from **System Settings → Privacy & Security → Screen & System Audio Recording** with the **−** button, and run in Terminal:
+**English — System audio doesn't work or macOS doesn't recognize the permission.** First try **Settings → General → Resolve permissions conflict → Resolve and restart** (it removes old copies from the macOS registry and deletes the saved permissions; it does not touch your profiles, documents or transcripts). If that is not enough, keep **a single copy** of NextHelp in Applications and open it from there (not from the mounted DMG). Quit the app (⌘Q), remove NextHelp from **System Settings → Privacy & Security → Screen & System Audio Recording** with the **−** button, and run in Terminal:
 
 ```bash
 tccutil reset ScreenCapture com.luisrangel.meetingassistant
