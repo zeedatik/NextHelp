@@ -56,18 +56,26 @@ Probado en una Mac nueva sin nada instalado previamente: con los pasos 1 a 7 es 
 
 ## Solución de problemas / Troubleshooting
 
-**Español — El audio del sistema no funciona o macOS no reconoce el permiso.** Primero prueba **Configuración → General → Resolver conflicto de permisos → Resolver y reiniciar** (quita las copias antiguas del registro de macOS y borra los permisos guardados; no toca tus perfiles, documentos ni transcripciones). Si no basta, mantén **una sola copia** de NextHelp, en Aplicaciones, y ábrela desde ahí (no desde el DMG montado). Cierra la app (⌘Q), quita NextHelp de **Ajustes del Sistema → Privacidad y seguridad → Grabación de pantalla y audio del sistema** con el botón **−**, y ejecuta en Terminal:
+### Español
 
-```bash
-tccutil reset ScreenCapture com.luisrangel.meetingassistant
-```
+**El audio del sistema («Ellos») no funciona, se traba o macOS no reconoce el permiso.** Suele pasar después de instalar una versión nueva de la app, porque macOS liga los permisos a la firma de la versión anterior. Se arregla desde la propia app:
 
-Reinicia la Mac, abre NextHelp y vuelve a conceder el permiso cuando macOS lo pida. Después de actualizar a una versión nueva, macOS puede volver a pedir los permisos de micrófono y de audio del sistema.
+1. Abre **Configuración** (el ícono de engrane).
+2. Entra a **General**.
+3. En la sección **Permisos de audio**, pulsa **Resolver conflicto de permisos** y confirma con **Resolver y reiniciar**.
+4. Espera a que la app se cierre sola y se vuelva a abrir.
+5. Concede otra vez los permisos que macOS te pida (micrófono, reconocimiento de voz y grabación de pantalla y audio del sistema).
 
-**English — System audio doesn't work or macOS doesn't recognize the permission.** First try **Settings → General → Resolve permissions conflict → Resolve and restart** (it removes old copies from the macOS registry and deletes the saved permissions; it does not touch your profiles, documents or transcripts). If that is not enough, keep **a single copy** of NextHelp in Applications and open it from there (not from the mounted DMG). Quit the app (⌘Q), remove NextHelp from **System Settings → Privacy & Security → Screen & System Audio Recording** with the **−** button, and run in Terminal:
+Listo: con eso queda resuelto. Este botón no toca tus perfiles, documentos ni transcripciones.
 
-```bash
-tccutil reset ScreenCapture com.luisrangel.meetingassistant
-```
+### English
 
-Restart your Mac, open NextHelp and grant the permission again when macOS asks. After updating to a new version, macOS may ask for the microphone and system-audio permissions again.
+**System audio ("Them") doesn't work, hangs, or macOS doesn't recognize the permission.** This usually happens after installing a new version of the app, because macOS ties permissions to the previous version's signature. You can fix it from inside the app:
+
+1. Open **Settings** (the gear icon).
+2. Go to **General**.
+3. In the **Audio permissions** section, press **Resolve permissions conflict** and confirm with **Resolve and restart**.
+4. Wait for the app to close and reopen by itself.
+5. Grant again the permissions macOS asks for (microphone, speech recognition and screen & system audio recording).
+
+That's it: everything works again. This button does not touch your profiles, documents or transcripts.
